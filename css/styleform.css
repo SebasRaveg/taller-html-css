@@ -14,8 +14,10 @@
   border-radius: 10px;  
   padding-top: 30px;
   padding-bottom: 20px;  
-  background-color: #fbfbfb; 
+  background-color: whitesmoke; 
   padding-left: 30px; 
+  
+  
 }
 
 
@@ -26,7 +28,7 @@ input{
   border-radius: 5px;  
   border-style: solid; 
   border-width: 1px; 
-  border-color: #ab4493; 
+  border-color: red; 
   margin-top: 10px;  
   padding-left: 10px;
   margin-bottom: 20px; 
@@ -40,7 +42,7 @@ textarea{
   border-radius: 5px;  
   border-style: solid; 
   border-width: 1px; 
-  border-color: #ab4493; 
+  border-color: red; 
   margin-top: 10px;  
   padding-left: 10px;
   margin-bottom: 20px; 
@@ -61,8 +63,8 @@ button{
   margin-bottom: 20px; 
   margin-top: 10px;   
   text-transform: uppercase;
-  background-color: #ab4493; 
-  border-color: #ab4493; 
+  background-color: red; 
+  border-color: red; 
   border-style: solid; 
   border-radius: 10px;  
   width: 420px;   
@@ -76,7 +78,7 @@ button p{
 
 
 span{
-  color: #ab4493; 
+  color: #red; 
 }
 
 
@@ -107,16 +109,5 @@ p{
  color: #a8a8a8;
 }
 
-
-.formulario input:focus{
-  outline:0;
-  border: 1px solid #97d848;
-}
-
-
-.formulario textarea:focus{
-  outline:0;
-  border: 1px solid #97d848;
-}
   
 
